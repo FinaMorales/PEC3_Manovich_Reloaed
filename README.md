@@ -60,10 +60,6 @@ Software de videollamada, fundado en 2011 por Eric Yuan, y actualmente con sede 
 Este software puede funcionar via web o instalando una aplicacion en el ordenador. Tiene varias modalidades, las mas usadas son reunion y webinar. El modo reunion tiene una modalidad gratuita con algunas limitaciones como la duracion de lareunion y el numero de asistentes, las modadlidades de pago son escalables segun las necesidades en cuanto asistentes y algunas herramientas adicionales. El modo webinar en cambio solo existe en version de pago tambien escalable segun las necesidades.
 Dentro de sus funciones principales, incluye la posibilidad de compartir contenido, pizarra, chat, alzamiento de mano, encuestas, preguntas y respuestas, traduccion simultanea, transmisiones en directo, grabacion en la nube.
 
-<p.aling="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cnNQYlqnQvU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
-
 ![Cultura Digital](https://www.antevenio.com/wp-content/uploads/2020/06/zoom-800x445.png) 
 
 
