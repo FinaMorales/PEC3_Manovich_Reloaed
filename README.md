@@ -46,24 +46,37 @@ El software incluye varios casos de hibridez:
 
 El software incluye varias herramientas, que son casos de hibridación particulares, como vMix Replay, vMix Social y el mencionado anteriormente vMix Call. 
 
-<div class="embed-container">
-  <iframe
-      src="https://www.youtube.com/embed/{{ include.id }}"
-      width="700"
-      height="480"
-      frameborder="0"
-      allowfullscreen="">
-  </iframe>
-</div>
 
-## Re-descubriendo la hibridacion: Caso 2
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Re-descubriendo la hibridacion: Caso 2: Zoom
+
+### Descripción:
+Software de videollamada, fundado en 2011 por Eric Yuan, y actualmente con sede en California. Al igual que el caso anterior, son 2 programas que han aumentado exponencialmente sus usuarios debido principalmente al confinamiento y distanciamiento social que ha provocado la pandemia, sobretodo el aumento ha sido en el ambito laboral y de educacion. Ha pasado de tener 10 millones de usuarios activos en 2019 a mas de 300 millones a finales del 2020. 
+Este software puede funcionar via web o instalando una aplicacion en el ordenador. Tiene varias modalidades, las mas usadas son reunion y webinar. El modo reunion tiene una modalidad gratuita con algunas limitaciones como la duracion de lareunion y el numero de asistentes, las modadlidades de pago son escalables segun las necesidades en cuanto asistentes y algunas herramientas adicionales. El modo webinar en cambio solo existe en version de pago tambien escalable segun las necesidades.
+Dentro de sus funciones principales, incluye la posibilidad de compartir contenido, pizarra, chat, alzamiento de mano, encuestas, preguntas y respuestas, traduccion simultanea, transmisiones en directo, grabacion en la nube.
+
+![Cultura Digital](https://www.antevenio.com/wp-content/uploads/2020/06/zoom-800x445.png) 
+
+
+### Combinación de medios:
+Este software inicialmente orientado a la función de videollamada, a pasado a ser un medio totalmente diferente especializado en la gestión de las actividades en grupo. Para obtener este resultado se observa diversos casos de hibridación de medios como son:
+
+
+ - Poder hacer reuniones de trabajo con la posibilidad de añadir filtros, observar las reacciones, compartir archivos, realizar encuestas, chat y la posibilidad de levantar la mano, son ejemplos de como se entrelazan estos diferentes medios para que las reuniones sean mas atractivas y divertidas.
+ > “Mi hija nunca me preguntó qué estaba haciendo”, dice Yuan, radiante. “Por primera vez, se detuvo para decir:” Papá, ¿cómo levantas la mano en Zoom?”. Alex Konrad | Forbes Staff
+ - Grabar las reuniones de forma local o en la nube, con transcripciones que permiten búsquedas.
+ - En reuniones de trabajo o incluso para eventos, tiene la posibilidad de añadir traducción simultánea, incorporando interpretes reales dentro de las mismas reuniones, es un ejemplo de como 2 medios de comunicación se unen en una sola plataforma.
+
+El software incluye varias herramientas como Zoom Phone, Zoom Rooms y Zoom Events y webinar que a su vez son ejemplos de hibridación por si solos.
 
 
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* Juan Pablo Morales Saramiento (14 febrero 2020). **La apuesta digital de vmix**. Disponible en: https://www.tvyvideo.com/201902148940/articulos/tecnologia/la-apuesta-digital-de-vmix.html
+* vMix (On-line) https://www.vmix.com
+* Zoom (On-line) https://zoom.us
+* Alex Konrad (2020). **Zoom a Eric Yuan: la historia del millonario y fundador de la plataforma de videollamadas**. Disponible en: https://forbes.co/2020/05/14/actualidad/zoom-a-eric-yuan-la-historia-del-millonario-y-fundador-de-la-plataforma-de-videollamadas/
 
 
 ----
