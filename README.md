@@ -44,7 +44,12 @@ El software incluye varios casos de hibridez:
  - V-Mix Call: esta es una herramienta para realizar  videollamadas, se puede utilizar en eventos en directo para conectar con ponentes de manera online. Con solo un navegador web y una cámara web, el invitado puede conectarse a su programa en vivo con video HD y audio de alta calidad desde cualquier parte del mundo. Ademas admite múltiples canales de superposición, decorados virtuales y plantillas.
  - Emision en streaming: El software integra la posibilidad de emitir en directo a través de alguna plataforma de streaming, como pueden ser redes sociales, Youtube, Facebook live, Twitch, Vimeo, Twitter y algunas otras. Es tan fácil como enviar la señal de programa a una dirección RTMP. La hibridez en este caso es la combinación de la producción de video con la emisión en directo en un solo software.
 
-El software incluye varias herramientas, que son casos de hibridación particulares, como vMix Replay, vMix Social y el mencionado anteriormente vMix Call. 
+El software incluye varias herramientas, que son casos de hibridación particulares, como vMix Replay, vMix Social y el mencionado anteriormente vMix Call.
+
+<div aling="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cnNQYlqnQvU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 [![VMix](https://img.youtube.com/vi/HCz_m-HsXOY/0.jpg?w=640)](https://www.youtube.com/watch?v=HCz_m-HsXOY)
 
@@ -54,6 +59,10 @@ El software incluye varias herramientas, que son casos de hibridación particula
 Software de videollamada, fundado en 2011 por Eric Yuan, y actualmente con sede en California. Al igual que el caso anterior, son 2 programas que han aumentado exponencialmente sus usuarios debido principalmente al confinamiento y distanciamiento social que ha provocado la pandemia, sobretodo el aumento ha sido en el ambito laboral y de educacion. Ha pasado de tener 10 millones de usuarios activos en 2019 a mas de 300 millones a finales del 2020. 
 Este software puede funcionar via web o instalando una aplicacion en el ordenador. Tiene varias modalidades, las mas usadas son reunion y webinar. El modo reunion tiene una modalidad gratuita con algunas limitaciones como la duracion de lareunion y el numero de asistentes, las modadlidades de pago son escalables segun las necesidades en cuanto asistentes y algunas herramientas adicionales. El modo webinar en cambio solo existe en version de pago tambien escalable segun las necesidades.
 Dentro de sus funciones principales, incluye la posibilidad de compartir contenido, pizarra, chat, alzamiento de mano, encuestas, preguntas y respuestas, traduccion simultanea, transmisiones en directo, grabacion en la nube.
+
+<p.aling="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cnNQYlqnQvU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 ![Cultura Digital](https://www.antevenio.com/wp-content/uploads/2020/06/zoom-800x445.png) 
 
