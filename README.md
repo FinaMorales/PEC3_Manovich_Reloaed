@@ -46,7 +46,7 @@ El software incluye varios casos de hibridez:
 
 El software incluye varias herramientas, que son casos de hibridación particulares, como vMix Replay, vMix Social y el mencionado anteriormente vMix Call. 
 
-
+[![VMix](https://img.youtube.com/vi/HCz_m-HsXOY/0.jpg?w=640)](https://www.youtube.com/watch?v=HCz_m-HsXOY)
 
 ## Re-descubriendo la hibridacion: Caso 2: Zoom
 
